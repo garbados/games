@@ -111,7 +111,7 @@ Classes are professions and skillsets acquired before the game has started. They
 * Rogue: stealthy, cunning, deadly.
 * Monk: disciplined, calm, mundane*.
 
-* Relevant to spellcasting. See "Magic" for details.
+\* Relevant to spellcasting. See "Magic" for details.
 
 # Equipment
 
