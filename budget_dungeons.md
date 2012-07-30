@@ -88,14 +88,14 @@ Races are typified by several common-but-not-always-present traits. Members of a
 
 Sometimes, a race will have a particularly nasty negative trait, such as blindness for troglodytes, which all members of the race possess. In this case, choose two traits from among the four listed, in addition to the negative trait.
 
-* Human: cunning, charismatic, creative.
-* Elf: elegant, beautiful, frail.
-* Dwarf: proud, brave, hardy.
-* Halfling: sly, proud, quick.
-* Gnome: inventive, nimble, brash.
+* Human: cunning, charismatic, ambitious.
+* Elf: elegant, beautiful, quick.
+* Dwarf: strong, hardy, proud.
+* Halfling: sly, brave, quick.
+* Gnome: resourceful, intelligent, brash.
 * Orc: strong, violent, commanding.
 * Goblin: lucky, hardy, annoying.
-* Troglodyte: Blind, and: hardy, keen senses, stealthy, strong.
+* Troglodyte: Blind, and: hardy, perceptive, stealthy, strong.
 * Infernal: Cursed (-1 whenever dealing with divine forces), and: sadistic, cunning, beautiful, charismatic.
 
 # Classes
@@ -103,7 +103,7 @@ Sometimes, a race will have a particularly nasty negative trait, such as blindne
 Classes are professions and skillsets acquired before the game has started. They imply a community from whom you received training, and relationships with that community. Like races, classes normally list three traits; when a player selects a class for their character, they pick two of these traits. As with races, add the chosen traits to your character.
 
 * Soldier: strong, disciplined, commanding.
-* Cleric: corrupt, charismatic, divine*.
+* Cleric: courageous, charismatic, divine*.
 * Mage: intelligent, learned, sorcerous*.
 * Barbarian: strong, wild, keen senses.
 * Druid: wise, compassionate, natural*.
