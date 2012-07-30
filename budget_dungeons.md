@@ -29,7 +29,7 @@ If you have a single trait many times, it makes that trait more potent. BD refer
 * 2: very [trait]
 * 3: incredibly [trait]
 * 4: unbelievably [trait]
-* 5: the [trait]est
+* 5: the [trait]est / the most [trait]
 
 ## Story Points
 
@@ -145,77 +145,125 @@ When you cast a spell, you contest it. A spell's bonus is equal to its tier. You
 * -1 per extra turn you take to cast a spell, up to -2
 * +1 to cast without moving
 * +1 to cast silently
+* +2 to cast reactively, against something not on your turn. Can only cast reactively once between each of your turns.
+
+If, when you contest a spell, you fail, the spell fizzles and does nothing.
 
 Each tier of magic has two spells, for ten spells per school (and forty spells total).
 
 ## Divine
 
 ### Novice
-1.
-2.
+
+1. Bless
+2. Heal
+
 ### Apprentice
+
 1.
 2.
+
 ### Journeyman
+
 1.
 2.
+
 ### Expert
+
 1.
 2.
+
 ### Master
+
 1.
 2.
+
 
 ## Sorcerous
 
 ### Novice
+
 1.
 2.
+
 ### Apprentice
+
 1.
 2.
+
 ### Journeyman
+
 1.
 2.
+
 ### Expert
+
 1.
 2.
+
 ### Master
+
 1.
 2.
+
 
 ## Natural
 
 ### Novice
-1.
-2.
+
+1. Goodberries
+2. Mud to Clay; Clay to Mud
+
 ### Apprentice
-1.
-2.
+
+1. Speak with Animals
+2. Stone to Dirt; Dirt to Stone
+
 ### Journeyman
-1.
-2.
+
+1. Summon Ally
+    A probably furry ally of nature's cause appears! It has up to two traits. Alternatively, two allies appear, with one trait each.
+2. Grow / Diminish
+
 ### Expert
-1.
-2.
+
+1. Shapeshift
+    Become another creature, with up to four traits. You lose the ability to cast spells, unless you are the most natural.
+2. Control Weather
+    The skies obey your whim. Summon rain, fog, hail, snow, sleet, sun, or clouds. Your artificial weather lasts an hour, or until you decide to make it return to normal.
+
 ### Master
-1.
-2.
+
+1. 
+2. 
+
 
 ## Mundane
 
 ### Novice
-1.
-2.
+
+1. Detect Magic
+    All forms of magic become visible to you for an hour. You can cancel this effect at will. 
+    For spells and effects of tiers at or below your mundane skill, you can determine the school of magic. 
+    For spells and effects one or more tiers below your mundane skill, you can determine the specific spell cast.
+2. Counterspell
+    Prevent a magical act from completing: the caster finds they cannot pronounce the final syllable, or their will finds no traction on the universe's magical substrate. You can prepare a counterspell on your turn, and then unleash it reactively later. If you take another action before unleashing the counterspell, you must prepare it again. You can counter spells up to one degree above your level of mundane skill. Thus, a very mundane character can counter journeyman spells.
+
 ### Apprentice
+
 1.
 2.
+
 ### Journeyman
+
 1.
 2.
+
 ### Expert
+
 1.
 2.
+
 ### Master
 1.
 2.
