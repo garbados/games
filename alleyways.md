@@ -1,6 +1,6 @@
-title: Alleyways
+# Alleyways
 
-Inspired by "Lovers and Dancers", solve mysteries and make friends.
+Inspired by [The Comfort of Strangers](http://comeoutandplay.org/2008_comfortofstrangers.php), solve mysteries and make friends.
 
 ## Overview
 
