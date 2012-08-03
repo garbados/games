@@ -6,7 +6,7 @@ A roleplaying game for when-the-duck-ever
 
 A dragon appears. Or maybe you're a glass of water. Or maybe you and a few friends are getting tipsy at the bar. Oh wait that's really happening.
 
-It's a simple game, really. You could play it in your basement (as is traditional), in the bar (as is drunken), on the go (as the creators did), or in a car's back seat (as the creators' girlfriends disapproved of thoroughly). Play it wherever. It's about having a good time, about being silly and creative and sharing a narrative experience. Whoa, that sounded heavy. Roll to see if it makes sense.
+It's a simple game, really. You could play it in your basement (as is traditional), in the bar (as is drunken), on the go (as the creators did), or in a car's back seat (as the creators' girlfriends disapproved of thoroughly). Play it wherever. It's about having a good time, about being silly and creative, and sharing a narrative experience. Whoa, that sounded heavy. Roll to see if it makes sense.
 
 ## Gameplay
 
