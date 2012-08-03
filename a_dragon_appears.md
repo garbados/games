@@ -1,4 +1,4 @@
-title: A Dragon Appears
+# A Dragon Appears
 
 A roleplaying game for when-the-duck-ever
 
