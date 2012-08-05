@@ -1,4 +1,4 @@
-title: A Dragon Appears
+# A Dragon Appears
 
 A roleplaying game for when-the-duck-ever
 
@@ -6,11 +6,11 @@ A roleplaying game for when-the-duck-ever
 
 A dragon appears. Or maybe you're a glass of water. Or maybe you and a few friends are getting tipsy at the bar. Oh wait that's really happening.
 
-It's a simple game, really. You could play it in your basement (as is traditional), in the bar (as is drunken), on the go (as the creators did), or in a car's back seat (as the creators' girlfriends disapproved of thoroughly). Play it wherever. It's about having a good time, about being silly and creative and sharing a narrative experience. Whoa, that sounded heavy. Roll to see if it makes sense.
+It's a simple game, really. You could play it in your basement (as is traditional), in the bar (as is drunken), on the go (as the creators did), or in a car's back seat (as the creators' girlfriends disapproved of thoroughly). Play it wherever. It's about having a good time, about being silly and creative, and sharing a narrative experience. Whoa, that sounded heavy. Roll to see if it makes sense.
 
 ## Gameplay
 
-Like most roleplaying systems, you have your players, and your GM, AKA Game Master, Giggly Marxist, Gargantuan Macchiato, etc. Your GM comes up with a prompt and preps themselves to reply to answers like "I want to tickle the minotaur." while the players write some number of adjectives (say, 3 to 5) on a napkin, their arms, someone else's face, or maybe they just memorize them. These adjectives can be anything, including but not limited to: "pudgy", "energetic", "radioactive", "invincible", or "can cause puppies to appear at will." Wherever these adjectives help the character, they're at an advantage. If the player opts to be harmed by his adjective (as adjectives like "cowardly" or "premature ejaculation" are wont to do) he scores a story point.
+Like most roleplaying systems, you have your players, and your GM, AKA Game Master, Giggly Marxist, Gargantuan Macchiato, etc. Your GM comes up with a prompt and preps themselves to reply to answers like "I want to tickle the minotaur." while the players write some number of adjectives (say, 3 to 5) on a napkin, their arms, someone else's face, or maybe they just memorize them. These adjectives can be anything, including but not limited to: "pudgy", "energetic", "radioactive", "invincible", or "can cause puppies to appear at will." Wherever these adjectives help the character, they're at an advantage. If the player opts to be harmed by his adjective (as adjectives like "cowardly" or "premature ejaculation" are wont to do) they score a story point.
 
 Story points can be used to twist and add to the GM's narration. Maybe you know that ogre from gradeschool, or the hot princess has a total thing for your unibrow. Especially implausible alterations might take additional story points, though the group is free to reduce how many points an alteration requires based on how much they like it. Maybe the GM knows where the story is going and doesn't want to get de-railed. In that case, they're free to raise the cost of alterations as they see fit. But the wise GM would do well to remember that games are about fun, and that a focus on story should never come at the cost of the group's satisfaction.
 
