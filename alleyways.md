@@ -1,6 +1,7 @@
-# Alleyways
-
-Inspired by [The Comfort of Strangers](http://comeoutandplay.org/2008_comfortofstrangers.php), solve mysteries and make friends.
+tags: live-action, phone app, social
+date: August, 2012
+title: Alleyways
+summary: Inspired by The Comfort of Strangers, build real-world relationships while solving mysteries.
 
 ## Overview
 

@@ -1,22 +1,27 @@
+tags: lite, fantasy, pen-and-paper
+date: June 2010
 title: Budget Dungeons
+summary: Fantasy roleplaying on the cheap.
 
-## Fantasy roleplaying on the cheap.
-
-# Quickstart
+## Quickstart
 
 1. Pick the Storyteller. See "Overview: The Storyteller" for what this person does.
 2. Everyone else: Make characters; see "Characters: Creating Characters" for how.
 3. Play!
 
-# Overview
+## Overview
 
-## Players
+To be written.
 
-## The Storyteller
+### Players
+
+To be written.
+
+### The Storyteller
 
 This person acts the parts of all characters and entities not otherwise controlled by the players, and takes a lead role in describing the world around the players' characters.
 
-## Traits
+### Traits
 
 Traits describe your character's abilities and personality. They may include words like strong, wise, corrupt, annoying, frail, etc. Wherever they help you, things are easier. Roleplaying your traits well earns Story Points, the currency of storytelling. See "Overview: Story Points" for more on that.
 
@@ -31,7 +36,7 @@ If you have a single trait many times, it makes that trait more potent. BD refer
 * 4: unbelievably [trait]
 * 5: the [trait]est / the most [trait]
 
-## Story Points
+### Story Points
 
 Using your traits in creative and dangerous ways earns you story points. Specifically, the Storyteller awards players with story points in return for creating dramatic tension, creative use of traits, detailed descriptions of an action, etc., score story points. Other players can prompt the Storyteller to action by nominating their comrades to receive story points.
 
@@ -40,7 +45,7 @@ Story points can be used for one of two things:
 * Raise one trait up two degrees for the purposes of a single action. This bonus disappears after the action resolves.
 * Flesh out the world. This can include detailing your family history, the layout of the castle you're sieging, or the personality of a character you just met. Use your imagination!
 
-## Contests
+### Contests
 
 When two entities -- whether two or more characters, one or more characters and one or more inanimate objects, or just a bunch of rocks -- try to foist their will onto one another, it's called a contest. If a thief tries to lockpick a door, he or she contests the lock. If the thief wins, the door unlocks. If the lock wins, the thief lacks the ability to pick the lock.
 
@@ -61,13 +66,13 @@ If the contest happens between groups or distinct entities (like the party and a
 2. Each group sums the bonuses of its constituents, and chooses a representative to rock/paper/scissors for them.
 3. These representatives duke it out like normal.
 
-## Turns
+### Turns
 
 Players take turns speaking, proceeding around the group so that each person in order has a chance to act, speak, or otherwise participate. If a player doesn't want to, they can always pass.
 
-# Characters
+## Characters
 
-## Creating Characters
+### Creating Characters
 
 1. Pick a race
 2. Pick a class
@@ -75,14 +80,14 @@ Players take turns speaking, proceeding around the group so that each person in 
 4. Select your gear
 5. Come up with a name and simple backstory
 
-## Character Development
+### Character Development
 
 Every once in a while, such as after a quest or a major revelation, characters learn and grow, expanding their abilities:
 
 1. Pick a Trait, or improve one you already have
 2. Get a Story Point
 
-# Races
+## Races
 
 Races are typified by several common-but-not-always-present traits. Members of a race will show some facet of the race's overall character, but probably not every facet. Thus, races have several traits; when a player selects a race for their character, they choose only one of those traits from among the three listed. This chosen trait is added to your character.
 
@@ -98,7 +103,7 @@ Sometimes, a race will have a particularly nasty negative trait, such as blindne
 * Troglodyte: Blind, and: hardy, perceptive, stealthy, strong.
 * Infernal: Cursed (-1 whenever dealing with divine forces), and: sadistic, cunning, beautiful, charismatic.
 
-# Classes
+## Classes
 
 Classes are professions and skillsets acquired before the game has started. They imply a community from whom you received training, and relationships with that community. Like races, classes normally list three traits; when a player selects a class for their character, they pick two of these traits. As with races, add the chosen traits to your character.
 
@@ -113,15 +118,23 @@ Classes are professions and skillsets acquired before the game has started. They
 
 \* Relevant to spellcasting. See "Magic" for details.
 
-# Equipment
+## Equipment
 
-## Weapons
+To be written.
 
-## Armor
+### Weapons
 
-## Tools
+To be written.
 
-# Magic
+### Armor
+
+To be written.
+
+### Tools
+
+To be written.
+
+## Magic
 
 There are four schools of magic, as follows:
 
@@ -151,96 +164,98 @@ If, when you contest a spell, you fail, the spell fizzles and does nothing.
 
 Each tier of magic has two spells, for ten spells per school (and forty spells total).
 
-## Divine
+*Note*: Much of this section has yet to be written.
 
-### Novice
+### Divine
+
+#### Novice
 
 1. Bless
 2. Heal
 
-### Apprentice
+#### Apprentice
 
 1.
 2.
 
-### Journeyman
+#### Journeyman
 
 1.
 2.
 
-### Expert
+#### Expert
 
 1.
 2.
 
-### Master
-
-1.
-2.
-
-
-## Sorcerous
-
-### Novice
-
-1.
-2.
-
-### Apprentice
-
-1.
-2.
-
-### Journeyman
-
-1.
-2.
-
-### Expert
-
-1.
-2.
-
-### Master
+#### Master
 
 1.
 2.
 
 
-## Natural
+### Sorcerous
 
-### Novice
+#### Novice
+
+1.
+2.
+
+#### Apprentice
+
+1.
+2.
+
+#### Journeyman
+
+1.
+2.
+
+#### Expert
+
+1.
+2.
+
+#### Master
+
+1.
+2.
+
+
+### Natural
+
+#### Novice
 
 1. Goodberries
 2. Mud to Clay; Clay to Mud
 
-### Apprentice
+#### Apprentice
 
 1. Speak with Animals
 2. Stone to Dirt; Dirt to Stone
 
-### Journeyman
+#### Journeyman
 
 1. Summon Ally
     A probably furry ally of nature's cause appears! It has up to two traits. Alternatively, two allies appear, with one trait each.
 2. Grow / Diminish
 
-### Expert
+#### Expert
 
 1. Shapeshift
     Become another creature, with up to four traits. You lose the ability to cast spells, unless you are the most natural.
 2. Control Weather
     The skies obey your whim. Summon rain, fog, hail, snow, sleet, sun, or clouds. Your artificial weather lasts an hour, or until you decide to make it return to normal.
 
-### Master
+#### Master
 
 1. 
 2. 
 
 
-## Mundane
+### Mundane
 
-### Novice
+#### Novice
 
 1. Detect Magic
     All forms of magic become visible to you for an hour. You can cancel this effect at will. 
@@ -249,21 +264,21 @@ Each tier of magic has two spells, for ten spells per school (and forty spells t
 2. Counterspell
     Prevent a magical act from completing: the caster finds they cannot pronounce the final syllable, or their will finds no traction on the universe's magical substrate. You can prepare a counterspell on your turn, and then unleash it reactively later. If you take another action before unleashing the counterspell, you must prepare it again. You can counter spells up to one degree above your level of mundane skill. Thus, a very mundane character can counter journeyman spells.
 
-### Apprentice
+#### Apprentice
 
 1.
 2.
 
-### Journeyman
+#### Journeyman
 
 1.
 2.
 
-### Expert
+#### Expert
 
 1.
 2.
 
-### Master
+#### Master
 1.
 2.

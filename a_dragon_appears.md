@@ -1,6 +1,7 @@
-# A Dragon Appears
-
-A roleplaying game for when-the-duck-ever
+tags: lite, storytelling, pen-and-paper
+date: August, 2009
+title: A Dragon Appears
+summary: A roleplaying game for when-the-duck-ever
 
 ## Story
 

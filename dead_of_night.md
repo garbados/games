@@ -1,10 +1,11 @@
-# DEAD OF NIGHT
-
-An ADA Suspense and Horror module, using a Jenga tower.
+tags: horror, storytelling, pen-and-paper
+date: July, 2010
+title: Dead of Night
+summary: Inspired by Dread, though at the time I only knew it as "that game that uses Jenga instead of dice."
 
 ## How to Play
 
-You'll need a Master of Rituals, who tells the story and runs the game, a Jenga tower, and at least one other player.
+You'll need a Master of Rituals (who tells the story and runs the game), a Jenga tower, and at least one other player.
 
 Each player then creates their character, by making note somewhere of their Name, Profession(s), and Flaw. Each of those fields is detailed in the Fields section.
 

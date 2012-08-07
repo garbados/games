@@ -1,6 +1,7 @@
-# Momento RPG
-
-A memory game.
+tags: memory, pen-and-paper, rotating narrators, storytelling
+date: August, 2012
+title: Momento RPG
+summary: A memory game.
 
 ## Overview
 
