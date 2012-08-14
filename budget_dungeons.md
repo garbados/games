@@ -1,5 +1,5 @@
 tags: lite, fantasy, pen-and-paper
-date: June 2010
+date: June, 2010
 title: Budget Dungeons
 summary: Fantasy roleplaying on the cheap.
 
