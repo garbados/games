@@ -3,34 +3,46 @@ date: August, 2012
 title: Alleyways
 summary: Inspired by The Comfort of Strangers, build real-world relationships while solving mysteries.
 
-## Overview
+## Mack the Knife is loose again...
 
-Players play using an app on a device capable of detecting the proximity of other app-bearing devices in range. When near another player, the app reports to both players that they're close to another player. Ideally, the app provides a mechanism for finding the other player. 
+*...and it's up to you to stop him.*
 
-When players meet, they can share "clues", which advance both players' "investigations". Prior to sharing these clues, they are not known to either player. Each player's app then remembers the other's "alias" in the "rolodex"; in the future, when these players are in range of each other, the app will report them by alias, rather than as just another player. Two players cannot share clues more than once every 24hr.
+You're standing on the T. Your phone buzzes.
 
-When a player finishes an investigation, the next clue they get begins the next one.
+*An investigator is nearby!* it reads.
 
-## Terms
+Another gumshoe? Maybe now you'll get the scoop on why Dodgy Dan took the fall for Mack. You look around for the private eye, and catch the eye of someone else looking around in the same way.
 
-* clue: a vignette of less than 120 characters, indicating an alibi, motive, or other pertinent detail of a character in the investigation. Clue length is limitted for tweeting.
-* investigation: a finite but arbitrarily long collection of clues, beginning with the crime and ending with apprehending the perp.
-* alias: a player's unique game handle.
-* rolodex: a collection of all known aliases.
+"Investigator?" "Aye." You bump phones.
 
-## Content questions
+Your phone reads, *"Where's Dan?" you ask his dame. "He's been gone for days! We were getting married..." Poor gal. You swipe Dan's journal on the way out.* 
 
-* How are new investigations/clues generated? By us, or the user, or both?
+"Well. Dodgy Dan is likely dead."
 
-## Software questions
+"Who? I just started a new investigation. Professor Purple, in the library, with the golfclub."
 
-* How will players protect their identities when they want to revoke another player's knowledge of their alias?
-* How will players hide from others they don't want to interact with?
-* How will players find one another when they're informed another player is close?
+"Oh, I like that one. I won't spoil anything."
 
-## Hardware-dependent questions
+"Thanks. So who's Dodgy Dan?"
 
-* How will app-bearing devices detect one another?
-* At what range will app-bearing devices report that other players are nearby?
-* How will user data be stored, so as to protect identities while also collecting meaningful analytics?
-  - Ideally, devices are independent of any central server, so we never have sensitive data.
+## How to Play
+
+*Alleyways* is a social mystery game. You play as an investigator, and you find clues by meeting other investigators.
+
+While the game is in development, you can play on Twitter: send [@AlleywaysGame](https://twitter.com/alleywaysgame) a direct message (DM) with a picture of you and another investigator as proof of your encounter, like this from @SteveJobs to @AlleywaysGame: 
+
+"[upload.wikimedia.org/...](http://upload.wikimedia.org/wikipedia/commons/a/a2/Steve_Jobs_and_Bill_Gates_(522695099).jpg) @BillGates"
+
+@AlleywaysGame will then send a clue to @SteveJobs and @BillGates.
+
+Ultimately, *Alleyways* will be a phone app that reports when other investigators are nearby. If you'd like to get involved with realizing that vision, [contact me](mailto:garbados@gmail.com).
+
+## Details
+
+**How often can I get a clue from the same investigator?**
+
+Once every 24 hours. So, you can get one from Joe on your commute every day you ride together.
+
+**How do clues help me?**
+
+Clues provide the details, motives, and alibis that will ultimately solve your cases. Once you've solved a case, your next clue begins the next case.
