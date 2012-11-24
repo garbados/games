@@ -1,7 +1,7 @@
 tags: live-action, phone app, social
 date: August, 2012
-title: Alleyways
-summary: Inspired by The Comfort of Strangers, build real-world relationships while solving mysteries.
+title: Investigatoria
+summary: Inspired by The Comfort of Strangers, Investigatoria is the best excuse to meet new people.
 
 ## Mack the Knife is loose again...
 
@@ -27,22 +27,12 @@ Your phone reads, *"Where's Dan?" you ask his dame. "He's been gone for days! We
 
 ## How to Play
 
-*Alleyways* is a social mystery game. You play as an investigator, and you find clues by meeting other investigators.
+*Investigatoria* is a social mystery game app. You play as an investigator, and you find clues by meeting other investigators. When you're near another player, the app tells you so. When you bump phones, you each get your next clue, and log the encounter as something like "[name] gave you a clue about [investigation] on [date]." You can get a clue from meeting the same investigator once every 24 hours.
 
-While the game is in development, you can play on Twitter: send [@AlleywaysGame](https://twitter.com/alleywaysgame) a direct message (DM) with a picture of you and another investigator as proof of your encounter, like this from @SteveJobs to @AlleywaysGame: 
+As an investigator, you take on investigations that take the form of a mystery story that you unravel, piece by piece, by getting clues. Clues are tweet-sized bits of the story that provide the motives, alibis, and other details that will ultimately solve your case. Once you've solved a case (that is, found its last clue), your next clue begins the next case.
 
-"[upload.wikimedia.org/...](http://upload.wikimedia.org/wikipedia/commons/a/a2/Steve_Jobs_and_Bill_Gates_(522695099).jpg) @BillGates"
+Physical locations can also contain clues: you might stumble across a clue on your way home that opens up a new investigation tied to real things in real places. Or, a local bookstore might sponsor Investigatoria, so when you visit the bookstore, you get your next clue.
 
-@AlleywaysGame will then send a clue to @SteveJobs and @BillGates.
+All content comes from the community. I host writing workshops that challenge writers to compose mysteries broken into tweet-sized bits. [Contact me](mailto:garbados@gmail.com) if you'd like to know when the next one is. If you'd like to submit an investigation, [email me](mailto:garbados@gmail.com) and I'll put it in the game. All investigations are owned by their author(s); submitting an investigation just permits me to host it through Investigatoria with your permission. If you ever want to take your investigation down, [let me know](mailto:garbados@gmail.com) and I'll remove it from the game within 24 hours.
 
-Ultimately, *Alleyways* will be a phone app that reports when other investigators are nearby. If you'd like to get involved with realizing that vision, [contact me](mailto:garbados@gmail.com).
-
-## Details
-
-**How often can I get a clue from the same investigator?**
-
-Once every 24 hours. So, you can get one from Joe on your commute every day you ride together.
-
-**How do clues help me?**
-
-Clues provide the details, motives, and alibis that will ultimately solve your cases. Once you've solved a case, your next clue begins the next case.
+Investigatoria is currently in development, but will ultimately manifest as a phone app that reports when other investigators are nearby. If you'd like to get involved with realizing that vision, [contact me](mailto:garbados@gmail.com).
