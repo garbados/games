@@ -1,4 +1,4 @@
-tags: lite, storytelling, rotating narrators, pen-and-paper
+tags: storytelling, rotating narrators, pen-and-paper
 date: August, 2009
 title: Adventure Time! RPG
 summary: Get ready for some algebraic excellence.
