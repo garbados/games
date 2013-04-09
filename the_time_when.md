@@ -74,32 +74,13 @@ The audience awards tokens to adventurers for a story well told. Climactic momen
 
 Adventurers can spend tokens to improve their traits, whether this means becoming more skilled or acquiring superior equipment. Traits can be any descriptor, from "strong" to "magical" to "smelly", and apply anywhere they make sense (which is ultimately up to the audience). Traits occur in degrees, from uncommon to impossible. You're assumed to be of unremarkable ability in any trait you don't have, though weaknesses are narratively compelling (and thus might convince the audience to award you tokens!).
 
-<table>
-  <tr>
-    <th>Cost</th>
-    <th>Degree</th>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Uncommon</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Exceptional</td>
-  </tr>
-  <tr>
-    <td>6</td>
-    <td>Incredible</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>Mythic</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>Impossible</td>
-  </tr>
-</table>
+**Cost:Degree**
+
+* 2: Uncommon
+* 4: Exceptional
+* 6: Incredible
+* 8: Mythic
+* 10: Impossible
 
 To acquire a trait at any degree, you must acquire all previous degrees of that trait. So, if you wanted an incredible degree of majesty, you'd need to spend 2 tokens to get uncommon majesty, then 4 for exceptional majesty, and finally six for incredible majesty, for a cost of 12 total.
 
